@@ -1,0 +1,104 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    padding: 10%;
+    background-color: #ccc;
+}
+.display{
+    background-color: white;
+    width: 80%;
+    height: 80%;
+    max-width: 900px;
+    height: 80%;
+    margin: 0px 10%;
+    margin-top: 50px;
+    border-radius: 15px ;
+    border: 2px solid;
+    flex-wrap: wrap;  
+}
+#form_name{
+    padding: 20px 50px;
+
+}
+
+.first_name {
+    padding: 15px 10px;
+}
+#first_input {
+    padding: 5px 10px 30px 60px;
+    height: 20px;
+    width: 200px;
+}
+.last_name {
+    padding: 15px 10px;
+ 
+}
+#last_input {
+    padding: 5px 10px 30px 60px;
+    height: 20px;
+    width: 200px;
+}
+.email{
+    padding: 14px 10px;
+}
+.email_input{
+    padding: 5px 10px 15px 90px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
+.address{
+    padding: 15px 10px;
+
+}
+.address_input{
+    padding: 5px 10px 15px 35px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
+.address_in{
+    padding: 10px;
+  height: 50px;
+  width: 250px;
+}
+.city{
+    padding: 15px 10px;
+
+}
+.city_input{
+    padding: 5px 10px 15px 100px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
+.pincode{
+    padding: 15px 10px;
+}
+.pincode_input{
+    padding: 5px 10px 15px 75px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
+.date{
+    padding: 15px 10px;
+}
+.date_input{
+    padding: 5px 10px 15px 100px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
+.file{
+    padding: 15px 10px;
+}
+.file_input{
+    padding: 5px 10px 15px 23px;
+    height: 20px;
+    width: 200px;
+    margin-bottom: 14px;
+}
